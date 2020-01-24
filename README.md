@@ -18,3 +18,5 @@ Actually, it ain't that hard. I would even say it's kind of easy, like, there is
 
 Even more "lastest" commit
 I lied, the last one wasn't the last one. Let's go one step further!
+
+This is the first commit designed to interfere with the master branch. The only purpose of this text is to mess with the master.
